@@ -36,19 +36,16 @@ Foto-Importer Plus hilft dir dabei, Fotos aus einem Quellordner (z. B. Kamera-
 git clone https://github.com/TomyHtt26/foto-importer-plus.git
 cd foto-importer-plus
 
-text
 
 ### 3. Abhängigkeiten installieren
 
 pip install pillow customtkinter
 
-text
 
 ### 4. Tool starten
 
 python foto_importer_plus.py
 
-text
 
 ---
 
@@ -67,7 +64,6 @@ foto-importer-plus/
 │ └── build_exe.yml # GitHub Actions Workflow
 └── README.md # Diese Datei
 
-text
 
 ---
 
