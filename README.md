@@ -1,4 +1,4 @@
-# Foto-Importer Plus
+ Foto-Importer Plus
 
 Ein benutzerfreundliches Python-GUI-Tool zum Sortieren und Kopieren von Fotos nach Datum (z. B. nach Jahr/Monat) und optional nach Kamera-Modell.
 
@@ -14,6 +14,13 @@ Foto-Importer Plus hilft dir dabei, Fotos aus einem Quellordner (z. B. Kamera-
 - Überschreiben / Überspringen / Duplikate erkennen
 - Einfache Bedienung über eine moderne GUI
 
+---
+
+## 🖼️ Screenshot (Beispiel)
+
+![Screenshot der GUI](https://raw.githubusercontent.com/TomyHtt26/foto-importer-plus/main/docs/screenshot.png)
+
+---
 
 ## 🛠️ Technologie & Abhängigkeiten
 
