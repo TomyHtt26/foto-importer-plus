@@ -1,0 +1,17 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Sonstiges
+*.log
+foto_importer_plus_config.json
