@@ -14,14 +14,6 @@ Foto-Importer Plus hilft dir dabei, Fotos aus einem Quellordner (z. B. Kamera-
 - Überschreiben / Überspringen / Duplikate erkennen
 - Einfache Bedienung über eine moderne GUI
 
----
-
-## 🖼️ Screenshot (Beispiel)
-
-![Screenshot der GUI](https://github.com/TomyHtt26/foto-importer-plus/blob/main/Screenshot.png)
-
-
----
 
 ## 🛠️ Technologie & Abhängigkeiten
 
