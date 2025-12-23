@@ -26,7 +26,7 @@ jobs:
           pyinstaller --onefile --windowed foto_importer_plus.py
 
       - name: Upload EXE
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: FotoImporterPlus.exe
           path: dist/FotoImporterPlus.exe
