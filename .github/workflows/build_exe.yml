@@ -23,10 +23,10 @@ jobs:
 
       - name: Build EXE
         run: |
-          pyinstaller --onefile --windowed foto_importer_plus.py
+          pyinstaller --onefile --windowed --name FotoImporterPlus foto_importer_plus.py
 
       - name: Upload EXE
         uses: actions/upload-artifact@v4
         with:
-          name: FotoImporterPlus.exe
+          name: FotoImporterPlus
           path: dist/FotoImporterPlus.exe
