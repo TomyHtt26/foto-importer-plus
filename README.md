@@ -18,7 +18,7 @@ Foto-Importer Plus hilft dir dabei, Fotos aus einem Quellordner (z. B. Kamera-
 
 ## 🖼️ Screenshot (Beispiel)
 
-![Screenshot der GUI](https://raw.githubusercontent.com/TomyHtt26/foto-importer-plus/main/docs/screenshot.png)
+![Screenshot der GUI](https://github.com/TomyHtt26/foto-importer-plus/blob/main/Screenshot.png)
 
 ---
 
